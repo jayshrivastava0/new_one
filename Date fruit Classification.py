@@ -31,9 +31,6 @@ data
 # In[4]:
 
 
-data.Class.value_counts()
-
-
 # In[5]:
 
 
